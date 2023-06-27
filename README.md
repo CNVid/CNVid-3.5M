@@ -2,7 +2,7 @@
 
 This repository contains the dataset, codebase, and benchmarks for our paper : <CNVid-3.5M: Build, Filter, and Pre-train the Large-scale Public Chinese Video-text Dataset>, which has been accepted by CVPR 2023.
 
-## IMPORTANT (TERMS, LEGAL, and LICENSE): 
+## IMPORTANT!
 
 Please first check [TERMS.md](TERMS.md), [LEGAL.md](LEGAL.md), [LICENSE.md](LICENSE.md). You must not use the content in this dataset if you do not agree to the terms, legal disclaimer, and license outlined in this files.
 
