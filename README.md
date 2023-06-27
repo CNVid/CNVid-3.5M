@@ -19,16 +19,19 @@ Check [DATASET.md](DATASET.md) for instructions of dataset downloading and prepr
 ## Codebase
 
 Check [CODEBASE.md](CODEBASE.md) for instructions of codebase downloading and model pre-training (CNVid-3.5M).
+
 We have already prepared the codebase, but we still need some time to obtain the external disclosure authorization from our group. The codebase is planned to be published in August 2023.
 
 ## Benchmark
 
 Check [BENCHMARK.md](BENCHMARK.md) for instructions of benchmark downloading and model fine-tuning (CNVid-3.5M).
+
 We have already prepared the benchmark, but we still need some time to obtain the external disclosure authorization from our group. All benchmarks are planned to be published in August 2023.
 
 ## Citation
 
 If you find CNVid-3.5M useful, please consider citing the following paper:
+
 ```
 @misc{gan2023cnvid,
       title={CNVid-3.5M: Build, Filter, and Pre-train the Large-scale Public Chinese Video-text Dataset}, 
