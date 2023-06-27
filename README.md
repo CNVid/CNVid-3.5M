@@ -33,10 +33,11 @@ We have already prepared the benchmark, but we still need some time to obtain th
 If you find CNVid-3.5M useful, please consider citing the following paper:
 
 ```
-@misc{gan2023cnvid,
-      title={CNVid-3.5M: Build, Filter, and Pre-train the Large-scale Public Chinese Video-text Dataset}, 
-      author={Tian, Gan and Qing, Wang and Xingning, Dong and Xiangyuan, Ren and Liqiang, Nie and Qingpei, Guo},
-      booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
-      year={2023}
+@inproceedings{gan2023cnvid,
+  title={CNVid-3.5 M: Build, Filter, and Pre-Train the Large-Scale Public Chinese Video-Text Dataset},
+  author={Gan, Tian and Wang, Qing and Dong, Xingning and Ren, Xiangyuan and Nie, Liqiang and Guo, Qingpei},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={14815--14824},
+  year={2023}
 }
 ```
