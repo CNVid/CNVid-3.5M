@@ -43,3 +43,6 @@ If you find CNVid-3.5M useful, please consider citing the following paper:
   year={2023}
 }
 ```
+
+![alt text](demo_figs/topic_cloud_t200.jpg)
+![alt text](demo_figs/keyword_cloud_t200.jpg)
