@@ -19,3 +19,8 @@ and each video has 1.63 topics on average.
 * **Keywords:**  CNVid-3.5M contains a total of 21.5 Million keywords, and each video has 6.15 keywords on average.
 * **Video Durations:** The maximum, minimum, and average video duration of CNVid-3.5M is 1,974s, 4s, and 36.34s, respectively.
 * **PoS Tags of the ASR Text:** CNVid-3.5M contains a total of 17.0 Million verbs, 9.1 Million nouns, and 3.2Million adjectives, respectively.
+
+![alt text](demo_figs/time_count.jpg)
+![alt text](demo_figs/verb_count_t50.jpg)
+![alt text](demo_figs/noun_count_t50.jpg)
+![alt text](demo_figs/adj_count_t50.jpg)
