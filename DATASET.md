@@ -6,9 +6,9 @@ Download link is now available：[https://drive.google.com/drive/folders/1ACVN2Z
 
 We provide the following files:
 
-1.cn_vid3_5m_v1.csv: This CSV contains all of the CNVid video urls.
+* cn_vid3_5m_v1.csv: This CSV contains all of the CNVid video urls.
 
-2.caption.json: This json file contains the captions for all the CNVid videos. It is stored as a dictionary where each key is a video_id.
+* caption.json: This json file contains the captions for all the CNVid videos. It is stored as a dictionary where each key is a video_id.
 Each value of the dictionary is another dictionary with the keys ['text', 'start', 'end'] where the value of 'text' is a list of all the captions from the given video_id,
 and 'start' and 'end' are arrays correspondings to the start and end time timestamp of the captions (in second).
 
