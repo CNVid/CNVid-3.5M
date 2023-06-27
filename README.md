@@ -1,7 +1,8 @@
 # CNVid-3.5M: Build, Filter, and Pre-train the Large-scale Public Chinese Video-text Dataset
-[![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://github.com/dongxingning/SHA_GCL_for_SGG/blob/master/LICENSE)
 
 This repository contains the dataset, codebase, and benchmarks for our paper : <CNVid-3.5M: Build, Filter, and Pre-train the Large-scale Public Chinese Video-text Dataset>, which has been accepted by CVPR 2023.
+
+IMPORTANT: 
 
 ## Dataset
 
