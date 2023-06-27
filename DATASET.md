@@ -12,6 +12,8 @@ We provide the following files:
 Each value of the dictionary is another dictionary with the keys ['text', 'start', 'end'] where the value of 'text' is a list of all the captions from the given video_id,
 and 'start' and 'end' are arrays correspondings to the start and end time timestamp of the captions (in second).
 
+It is recommended to use [SVD-download](https://github.com/svdbase/SVD-download) to download the original videos in the CNVid-3.5M dataset.
+
 ## Statistics
 * The CNVid-3.5M dataset contains **3.5 Million** <video, text> pairs.
 * **Topics:**  CNVid-3.5M contains a total of 5.7 Million topics,
