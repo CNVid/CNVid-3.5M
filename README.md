@@ -43,6 +43,9 @@ If you find CNVid-3.5M useful, please consider citing the following paper:
   year={2023}
 }
 ```
+### The word cloud for Top-200 TOPICs in CNVid-3.5M.
 
 ![alt text](demo_figs/topic_cloud_t200.jpg)
+
+### The word cloud for Top-200 KEYWORDs in CNVid-3.5M.
 ![alt text](demo_figs/keyword_cloud_t200.jpg)
