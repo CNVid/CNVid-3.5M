@@ -4,7 +4,7 @@ This repository contains the dataset, codebase, and benchmarks for our paper: <[
 
 ## IMPORTANT!
 
-Please first check [TERMS.md](TERMS.md), [LEGAL.md](LEGAL.md), and [LICENSE.md](LICENSE.md). You must not use the content in this dataset if you do not agree to the terms, legal disclaimer, and license outlined in these files.
+Please first check [TERMS.md](TERMS.md), [LEGAL.md](LEGAL.md), and [LICENSE.md](LICENSE). You must not use the content in this dataset if you do not agree to the terms, legal disclaimer, and license outlined in these files.
 
 We note that we do not own the copyright to any of the collected data. The distribution of identities and activities in the CNVid-3.5M dataset may not be representative of the global human population and the diversity in society. Please be careful of unintended societal, gender, racial, and other biases when training or deploying models trained on this data.
 
