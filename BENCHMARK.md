@@ -1,2 +1,2 @@
 ## BENCHMARK
-All benchmarks are planned to be published in August 2023.
+All benchmarks are planned to be published in January 2024.
