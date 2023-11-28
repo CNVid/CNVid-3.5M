@@ -4,11 +4,11 @@ This repository contains the dataset, codebase, and benchmarks for our paper: <[
 
 ![alt text](demo_figs/teaser_figure.jpg)
 
-## News!
+## News !!!
 
 * The codebase are now available at [AntMMF-CNVid-VTP](https://github.com/alipay/Ant-Multi-Modal-Framework/blob/main/prj/cnvid_vtp/CODEBASE_CN.md).
-* Another instruction/project that may be helpful to download original videos in the CNVid-3.5M dataset: [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
-* If you have any questions about CNVid-3.5M, it is recommended to raise your questions at [AntMMF](https://github.com/alipay/Ant-Multi-Modal-Framework/blob/main/prj/cnvid_vtp/CODEBASE_CN.md) project.
+* Another instruction/project that may be helpful to download original videos in the CNVid-3.5M dataset: [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler).
+* If you have any questions about CNVid-3.5M, it is recommended to raise your questions at [AntMMF](https://github.com/alipay/Ant-Multi-Modal-Framework) project.
 
 ## IMPORTANT!
 
