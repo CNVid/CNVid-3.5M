@@ -4,6 +4,12 @@ This repository contains the dataset, codebase, and benchmarks for our paper: <[
 
 ![alt text](demo_figs/teaser_figure.jpg)
 
+## News!
+
+* The codebase are now available at [AntMMF-CNVid-VTP](https://github.com/alipay/Ant-Multi-Modal-Framework/blob/main/prj/cnvid_vtp/CODEBASE_CN.md).
+* Another instruction/project that may be helpful to download original videos in the CNVid-3.5M dataset: [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)
+* If you have any questions about CNVid-3.5M, it is recommended to raise your questions at [AntMMF](https://github.com/alipay/Ant-Multi-Modal-Framework/blob/main/prj/cnvid_vtp/CODEBASE_CN.md) project.
+
 ## IMPORTANT!
 
 Please first check [TERMS.md](TERMS.md), [LEGAL.md](LEGAL.md), and [LICENSE](LICENSE). You must not use the content in this dataset if you do not agree to the terms, legal disclaimer, and license outlined in these files.
@@ -20,15 +26,13 @@ Check [DATASET.md](DATASET.md) for instructions of dataset downloading and prepr
 
 ## Codebase
 
-Check [CODEBASE.md](CODEBASE.md) for instructions of codebase downloading and model pre-training (CNVid-3.5M).
-
-We have already prepared the codebase, but we still need some time to obtain the external disclosure authorization from our group. The codebase is planned to be published in August 2023.
+The codebase are now available at [AntMMF-CNVid-VTP](https://github.com/alipay/Ant-Multi-Modal-Framework/blob/main/prj/cnvid_vtp/CODEBASE_CN.md).
 
 ## Benchmark
 
 Check [BENCHMARK.md](BENCHMARK.md) for instructions of benchmark downloading and model fine-tuning (CNVid-3.5M).
 
-We have already prepared the benchmark, but we still need some time to obtain the external disclosure authorization from our group. All benchmarks are planned to be published in August 2023.
+We have already prepared the benchmark, but we still need some time to obtain the external disclosure authorization from our group. All benchmarks are planned to be published in January 2024.
 
 ## Citation
 
